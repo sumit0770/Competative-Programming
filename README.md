@@ -16,5 +16,5 @@ This repository serves as:
 -  Focus on **time and space optimization**.
 -  Regularly updated with new problems.
 
-## 🛠️ Folder Structure
+
 
