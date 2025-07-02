@@ -1,4 +1,4 @@
-# 🧠 Competitive Programming Solutions in C++
+# 🧠 Competitive Programming Solutions in C++ .
 
 Welcome to my Competitive Programming repository! This is a curated collection of my solutions to various programming problems from **CSES** and **Codeforces**, written in **C++**.
 
