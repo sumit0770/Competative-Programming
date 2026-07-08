@@ -25,8 +25,13 @@ This repository serves as:
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sumit0770/Competative-Programming/tree/master/0027-remove-element) |
+| [0860-lemonade-change](https://github.com/sumit0770/Competative-Programming/tree/master/0860-lemonade-change) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sumit0770/Competative-Programming/tree/master/0027-remove-element) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/sumit0770/Competative-Programming/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
