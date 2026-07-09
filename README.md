@@ -33,5 +33,18 @@ This repository serves as:
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/sumit0770/Competative-Programming/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/sumit0770/Competative-Programming/tree/master/0860-lemonade-change) |
+## String
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/sumit0770/Competative-Programming/tree/master/0678-valid-parenthesis-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/sumit0770/Competative-Programming/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/sumit0770/Competative-Programming/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
