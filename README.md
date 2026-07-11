@@ -47,4 +47,20 @@ This repository serves as:
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/sumit0770/Competative-Programming/tree/master/0678-valid-parenthesis-string) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sumit0770/Competative-Programming/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sumit0770/Competative-Programming/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sumit0770/Competative-Programming/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sumit0770/Competative-Programming/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
