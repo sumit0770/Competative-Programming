@@ -28,6 +28,7 @@ This repository serves as:
 | [0055-jump-game](https://github.com/sumit0770/Competative-Programming/tree/master/0055-jump-game) |
 | [0407-trapping-rain-water-ii](https://github.com/sumit0770/Competative-Programming/tree/master/0407-trapping-rain-water-ii) |
 | [0860-lemonade-change](https://github.com/sumit0770/Competative-Programming/tree/master/0860-lemonade-change) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/sumit0770/Competative-Programming/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/sumit0770/Competative-Programming/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/sumit0770/Competative-Programming/tree/master/2572-count-the-number-of-square-free-subsets) |
 ## Two Pointers
@@ -93,6 +94,7 @@ This repository serves as:
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sumit0770/Competative-Programming/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/sumit0770/Competative-Programming/tree/master/2382-maximum-segment-sum-after-removals) |
 ## Graph Theory
 |  |
 | ------- |
@@ -125,4 +127,12 @@ This repository serves as:
 |  |
 | ------- |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/sumit0770/Competative-Programming/tree/master/2572-count-the-number-of-square-free-subsets) |
+## Prefix Sum
+|  |
+| ------- |
+| [2382-maximum-segment-sum-after-removals](https://github.com/sumit0770/Competative-Programming/tree/master/2382-maximum-segment-sum-after-removals) |
+## Ordered Set
+|  |
+| ------- |
+| [2382-maximum-segment-sum-after-removals](https://github.com/sumit0770/Competative-Programming/tree/master/2382-maximum-segment-sum-after-removals) |
 <!---LeetCode Topics End-->
