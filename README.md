@@ -28,6 +28,7 @@ This repository serves as:
 | [0055-jump-game](https://github.com/sumit0770/Competative-Programming/tree/master/0055-jump-game) |
 | [0407-trapping-rain-water-ii](https://github.com/sumit0770/Competative-Programming/tree/master/0407-trapping-rain-water-ii) |
 | [0860-lemonade-change](https://github.com/sumit0770/Competative-Programming/tree/master/0860-lemonade-change) |
+| [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/sumit0770/Competative-Programming/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ This repository serves as:
 | ------- |
 | [0055-jump-game](https://github.com/sumit0770/Competative-Programming/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/sumit0770/Competative-Programming/tree/master/0678-valid-parenthesis-string) |
+| [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/sumit0770/Competative-Programming/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 ## Stack
 |  |
 | ------- |
@@ -84,6 +86,7 @@ This repository serves as:
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sumit0770/Competative-Programming/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/sumit0770/Competative-Programming/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 ## Union-Find
 |  |
 | ------- |
@@ -96,4 +99,12 @@ This repository serves as:
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sumit0770/Competative-Programming/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Tree
+|  |
+| ------- |
+| [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/sumit0770/Competative-Programming/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/sumit0770/Competative-Programming/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 <!---LeetCode Topics End-->
