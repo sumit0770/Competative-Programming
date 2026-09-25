@@ -29,6 +29,7 @@ This repository serves as:
 | [0407-trapping-rain-water-ii](https://github.com/sumit0770/Competative-Programming/tree/master/0407-trapping-rain-water-ii) |
 | [0860-lemonade-change](https://github.com/sumit0770/Competative-Programming/tree/master/0860-lemonade-change) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/sumit0770/Competative-Programming/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
+| [2572-count-the-number-of-square-free-subsets](https://github.com/sumit0770/Competative-Programming/tree/master/2572-count-the-number-of-square-free-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@ This repository serves as:
 | [0055-jump-game](https://github.com/sumit0770/Competative-Programming/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/sumit0770/Competative-Programming/tree/master/0678-valid-parenthesis-string) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/sumit0770/Competative-Programming/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
+| [2572-count-the-number-of-square-free-subsets](https://github.com/sumit0770/Competative-Programming/tree/master/2572-count-the-number-of-square-free-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -107,4 +109,20 @@ This repository serves as:
 |  |
 | ------- |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/sumit0770/Competative-Programming/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
+## Math
+|  |
+| ------- |
+| [2572-count-the-number-of-square-free-subsets](https://github.com/sumit0770/Competative-Programming/tree/master/2572-count-the-number-of-square-free-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2572-count-the-number-of-square-free-subsets](https://github.com/sumit0770/Competative-Programming/tree/master/2572-count-the-number-of-square-free-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [2572-count-the-number-of-square-free-subsets](https://github.com/sumit0770/Competative-Programming/tree/master/2572-count-the-number-of-square-free-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [2572-count-the-number-of-square-free-subsets](https://github.com/sumit0770/Competative-Programming/tree/master/2572-count-the-number-of-square-free-subsets) |
 <!---LeetCode Topics End-->
