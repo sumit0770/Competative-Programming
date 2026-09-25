@@ -76,4 +76,24 @@ This repository serves as:
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/sumit0770/Competative-Programming/tree/master/0407-trapping-rain-water-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/sumit0770/Competative-Programming/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Depth-First Search
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/sumit0770/Competative-Programming/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Union-Find
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/sumit0770/Competative-Programming/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Graph Theory
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/sumit0770/Competative-Programming/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/sumit0770/Competative-Programming/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
