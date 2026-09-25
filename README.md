@@ -114,6 +114,7 @@ This repository serves as:
 ## Math
 |  |
 | ------- |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/sumit0770/Competative-Programming/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/sumit0770/Competative-Programming/tree/master/2572-count-the-number-of-square-free-subsets) |
 ## Bit Manipulation
 |  |
@@ -135,4 +136,8 @@ This repository serves as:
 |  |
 | ------- |
 | [2382-maximum-segment-sum-after-removals](https://github.com/sumit0770/Competative-Programming/tree/master/2382-maximum-segment-sum-after-removals) |
+## Binary Search
+|  |
+| ------- |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/sumit0770/Competative-Programming/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 <!---LeetCode Topics End-->
