@@ -25,6 +25,7 @@ This repository serves as:
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sumit0770/Competative-Programming/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/sumit0770/Competative-Programming/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/sumit0770/Competative-Programming/tree/master/0055-jump-game) |
 | [0407-trapping-rain-water-ii](https://github.com/sumit0770/Competative-Programming/tree/master/0407-trapping-rain-water-ii) |
 | [0860-lemonade-change](https://github.com/sumit0770/Competative-Programming/tree/master/0860-lemonade-change) |
@@ -35,6 +36,7 @@ This repository serves as:
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sumit0770/Competative-Programming/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/sumit0770/Competative-Programming/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -48,6 +50,7 @@ This repository serves as:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sumit0770/Competative-Programming/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/sumit0770/Competative-Programming/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/sumit0770/Competative-Programming/tree/master/0678-valid-parenthesis-string) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/sumit0770/Competative-Programming/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
@@ -55,6 +58,7 @@ This repository serves as:
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sumit0770/Competative-Programming/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/sumit0770/Competative-Programming/tree/master/0678-valid-parenthesis-string) |
 ## Linked List
 |  |
@@ -140,4 +144,8 @@ This repository serves as:
 |  |
 | ------- |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/sumit0770/Competative-Programming/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sumit0770/Competative-Programming/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
