@@ -29,6 +29,7 @@ This repository serves as:
 | [0055-jump-game](https://github.com/sumit0770/Competative-Programming/tree/master/0055-jump-game) |
 | [0407-trapping-rain-water-ii](https://github.com/sumit0770/Competative-Programming/tree/master/0407-trapping-rain-water-ii) |
 | [0860-lemonade-change](https://github.com/sumit0770/Competative-Programming/tree/master/0860-lemonade-change) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/sumit0770/Competative-Programming/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/sumit0770/Competative-Programming/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/sumit0770/Competative-Programming/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/sumit0770/Competative-Programming/tree/master/2572-count-the-number-of-square-free-subsets) |
@@ -43,6 +44,7 @@ This repository serves as:
 | [0055-jump-game](https://github.com/sumit0770/Competative-Programming/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/sumit0770/Competative-Programming/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/sumit0770/Competative-Programming/tree/master/0860-lemonade-change) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/sumit0770/Competative-Programming/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## String
 |  |
 | ------- |
@@ -154,4 +156,8 @@ This repository serves as:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumit0770/Competative-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/sumit0770/Competative-Programming/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 <!---LeetCode Topics End-->
