@@ -1,0 +1,12 @@
+.DS_Store
+.cph/
+.vscode/
+*.bin
+*.dSYM/
+
+# Ignore compiled extensionless outputs while keeping source files.
+*
+!*.cpp
+!*.md
+!AGENTS.md
+!.gitignore
