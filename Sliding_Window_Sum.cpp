@@ -62,6 +62,7 @@ public:
             else{
                 parent[ulv] = ulu ;
                 size[ulu] += size[ulv] ;
+            
             }
     }
 
@@ -70,26 +71,37 @@ public:
    ll n , k; 
    cin>>n>>k ; 
    ll x , a , b , c; 
-   ll i = 0, j = 1; 
-//    ll sum = x ;
-//    int temp = -1 ;
-//    while( j < k ){
-//      temp = (( a*x )  + b )%c  ;
-//      sum += temp ;
-//     }
-//    ll ans = sum ; 
-//    while( i + k < n && j < n ){
+   cin>>x>>a>>b>>c;
+   ll i = 0, j = 0; 
+   vector<ll>v(n) ; 
+   v[0] = x ;
+   for( int i = 1; i < n  ; i++){
+     ll temp = ( a * x + b ) %c ; 
+  
+     v[i] = temp ;
+     x= temp ;
+   }
 
+ll sum = 0; 
+ll ans = 0; 
+   while( j < n ){
+    sum += v[j] ;
+     if( j - i + 1 == k ){
+        ans ^= sum ;
+        sum -= v[i]; 
+        i++;
+     }
+     j++;
 
-     
 }
-
+  cout<< ans<<endl;
+}
 
 int main(){
     ios::sync_with_stdio(false);
     cin.tie(NULL);
-  int t ;
-  cin>>t ;
+  int t =1  ;
+  //cin>>t ;
   while( t-- ){
      solve() ;
  }
